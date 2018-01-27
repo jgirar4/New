@@ -1,2 +1,2 @@
-# Analysing Home Run by comparing baseball data with Handedness, weight, and height
+# Analysis of Baseball Data
 
